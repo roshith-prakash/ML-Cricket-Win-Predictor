@@ -1,0 +1,30 @@
+{
+  "numeric_features": [
+    "runs_left",
+    "balls_left",
+    "wickets_in_hand",
+    "rrr",
+    "crr",
+    "rrr_minus_crr",
+    "target",
+    "wicket_pressure"
+  ],
+  "categorical_features": [
+    "batting_team",
+    "bowling_team",
+    "venue"
+  ],
+  "all_features": [
+    "runs_left",
+    "balls_left",
+    "wickets_in_hand",
+    "rrr",
+    "crr",
+    "rrr_minus_crr",
+    "target",
+    "wicket_pressure",
+    "batting_team",
+    "bowling_team",
+    "venue"
+  ]
+}

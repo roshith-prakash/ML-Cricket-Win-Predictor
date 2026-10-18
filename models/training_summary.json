@@ -1,0 +1,20 @@
+{
+  "logistic_regression": {
+    "brier_score": 0.1887,
+    "log_loss": 0.6167,
+    "roc_auc": 0.8357,
+    "accuracy": 0.7442
+  },
+  "lightgbm_raw": {
+    "brier_score": 0.2139,
+    "log_loss": 0.814,
+    "roc_auc": 0.8224,
+    "accuracy": 0.7314
+  },
+  "lightgbm_calibrated": {
+    "brier_score": 0.1781,
+    "log_loss": 0.78,
+    "roc_auc": 0.8403,
+    "accuracy": 0.7528
+  }
+}

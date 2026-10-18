@@ -1,0 +1,26 @@
+{
+  "numeric_features": [
+    "current_score",
+    "legal_balls_bowled",
+    "balls_left",
+    "wickets_fallen",
+    "wickets_in_hand",
+    "crr"
+  ],
+  "categorical_features": [
+    "batting_team",
+    "bowling_team",
+    "venue"
+  ],
+  "all_features": [
+    "current_score",
+    "legal_balls_bowled",
+    "balls_left",
+    "wickets_fallen",
+    "wickets_in_hand",
+    "crr",
+    "batting_team",
+    "bowling_team",
+    "venue"
+  ]
+}
